@@ -6,6 +6,7 @@ Some useful programs for the PIRG team.
 git clone
 cd 
 pip install virtualenv
-virtualenv venv 
-source venv/bin/activate
+python -m virtualenv venv
+cd venv/Scripts
+./activate
 pip install -r requirements.txt
