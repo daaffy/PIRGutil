@@ -1,0 +1,4 @@
+Run on zoom = 0.5 (downsample) in order to handle the large files.
+
+The smaller files may therefore have some error. Once identified,
+can rerun on normal zoom = 1 for smaller files.
